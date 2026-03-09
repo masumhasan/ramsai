@@ -1,0 +1,13 @@
+{
+  "servers": {
+    "figma": {
+      "command": "npx",
+      "args": ["-y", "figma-developer-mcp", "--stdio"],
+      "env": {
+        "FIGMA_API_KEY": "figd_ejCcxgmQlTJho8QmJwlsOwvzAtcJ2ja44EbrphAg",
+        "FIGMA_FILE_KEY": "CqNPBCsk6Oc35ImQFAqT9Z"
+      }
+    }
+  }
+  
+}
